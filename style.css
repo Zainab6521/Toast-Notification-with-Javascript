@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: rebeccapurple;
+  background-color: rgb(100, 165, 119);
   font-family: "Poppins", sans-serif;
   display: flex;
   flex-direction: column;
@@ -17,7 +17,7 @@ body {
 }
 .btn {
   background-color: #ffffff;
-  color: rebeccapurple;
+  color: rgb(96, 177, 96);
   font-family: inherit;
   font-weight: bold;
   padding: 1rem;
@@ -43,14 +43,14 @@ body {
 }
 .toast{
   background-color: #fff;
-  color: rebeccapurple;
+  color: rgb(45, 105, 60);
   border-radius: 5px;
   padding: 1rem 2rem;
   margin: 0.5rem;
 }
 
 .toast.info{
-  color: rebeccapurple;
+  color: rgb(32, 99, 38);
 }
 
 .toast.success{

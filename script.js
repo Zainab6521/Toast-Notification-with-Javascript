@@ -6,6 +6,8 @@ const messages = [
   "Message Two",
   "Message Three",
   "Message Four",
+  "Message Five",
+  "Message Six"
 ];
 
 const types = ["info", "success", "error"];
